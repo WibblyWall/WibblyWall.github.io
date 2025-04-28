@@ -27,7 +27,7 @@ I am a current music composition major with a programming minor with a love for 
 **Skills Used**
 * Creating shortcuts to use funtions that are used repeatly easier
   
-![Dack](https://github.com/user-attachments/assets/472daf74-3e3a-416b-b1a6-35df85108bfb)
+![Deck](https://github.com/user-attachments/assets/472daf74-3e3a-416b-b1a6-35df85108bfb)
 
 **Skills Used**
 * Use of IEnumerables to create a large amount of items
@@ -45,3 +45,9 @@ I am a current music composition major with a programming minor with a love for 
 **Skills Used**
 * Use of overloading methods
 * Use of creating a information guide for items
+  
+![Person](https://github.com/user-attachments/assets/5120bc36-c5f4-4293-9b3b-974c8bc6b3a8)
+
+**Skills Used**
+* Use of storing data in a different class then the main
+* Use of get & set
