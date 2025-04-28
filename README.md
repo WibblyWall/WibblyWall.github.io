@@ -9,4 +9,4 @@ I am a current music composition major with a programming minor with a love for 
 * **The Year Is 30XX**(lead programmer & composer) - (Unreleased)
 ## Projects & Skills
 ### Three Card Games
-![alt text](https://github.com/WibblyWall/Willem-Granzin/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/WibblyWall/Willem-Granzin/blob/main/Game.PNG)
