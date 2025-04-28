@@ -8,3 +8,4 @@ I am a current music composition major with a programming minor with a love for 
 * **Anguish**(composer) - (2024-present)
 * **The Year Is 30XX**(lead programmer & composer) - (Unreleased)
 ## Projects & Skills
+### Three Card Games
