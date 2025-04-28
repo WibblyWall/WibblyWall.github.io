@@ -15,6 +15,7 @@ I am a current music composition major with a programming minor with a love for 
 * Use of for loops
 * Use of adding and removing items from a list
 * Use of boolean and while clause
+  
 ![alt text](https://github.com/WibblyWall/Willem-Granzin/blob/main/Utilities.PNG)
 
 **Skills Used**
