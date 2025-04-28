@@ -37,6 +37,18 @@ I am a current music composition major with a programming minor with a love for 
 
 ### Adventure Game
 
+![Start](https://github.com/user-attachments/assets/111726a7-3762-4d67-9bd3-068cc583785b)
+
+**Skills Used**
+* Use of WPF
+* Use of textbox and button data collection
+  
+![Location](https://github.com/user-attachments/assets/f0897b46-89ca-47ef-95fa-44a4faa62f60)
+
+**Skills Used**
+* Use of randomly picked location you start at
+* Use of textblock showing data
+
 ### Wordel Type Game
 
 ### Potion Game
