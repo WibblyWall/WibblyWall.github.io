@@ -14,6 +14,7 @@ I am a current music composition major with a programming minor with a love for 
 ## Projects & Skills
 
 ### Three Card Games
+
 ![Game](https://github.com/user-attachments/assets/c7588fdd-abdf-4c47-b666-efc47dcb3307)
 
 **Skills Used**
