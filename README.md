@@ -26,3 +26,16 @@ I am a current music composition major with a programming minor with a love for 
 
 **Skills Used**
 * Creating shortcuts to use funtions that are used repeatly easier
+  
+![Dack](https://github.com/user-attachments/assets/472daf74-3e3a-416b-b1a6-35df85108bfb)
+
+**Skills Used**
+* Use of IEnumerables to create a large amount of items
+* Use of randomly ordering items in a list
+* Use of removing an item taken from a list
+
+### Adventure Game
+
+### Wordel Type Game
+
+### Potion Game
