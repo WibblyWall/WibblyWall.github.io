@@ -9,7 +9,7 @@ I am a current music composition major with a programming minor with a love for 
 
 ## Resume
 * **Anguish**(composer) - (2024-present)
-- https://lionagony.itch.io/anguish
+-- https://lionagony.itch.io/anguish
 * **The Year Is 30XX**(lead programmer & composer) - (Unreleased)
 
 ## Projects & Skills
