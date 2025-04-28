@@ -10,14 +10,14 @@ I am a current music composition major with a programming minor with a love for 
 * **The Year Is 30XX**(lead programmer & composer) - (Unreleased)
 ## Projects & Skills
 ### Three Card Games
-![alt text](https://github.com/WibblyWall/Willem-Granzin/blob/main/Game.PNG)
+![Game](https://github.com/user-attachments/assets/c7588fdd-abdf-4c47-b666-efc47dcb3307)
 
 **Skills Used**
 * Use of for loops
 * Use of adding and removing items from a list
 * Use of boolean and while clause
   
-![alt text](https://github.com/WibblyWall/Willem-Granzin/blob/main/Utilities.PNG)
+![Utilities](https://github.com/user-attachments/assets/f4b2527a-4e67-4386-80e0-807e0e9d94f9)
 
 **Skills Used**
 * Creating shortcuts to use funtions that are used repeatly easier
