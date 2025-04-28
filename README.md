@@ -10,10 +10,12 @@ I am a current music composition major with a programming minor with a love for 
 ## Projects & Skills
 ### Three Card Games
 ![alt text](https://github.com/WibblyWall/Willem-Granzin/blob/main/Game.PNG)
+
 **Skills Used**
 * Use of for loops
 * Use of adding and removing items from a list
 * Use of boolean and while clause
 ![alt text](https://github.com/WibblyWall/Willem-Granzin/blob/main/Utilities.PNG)
+
 **Skills Used**
 * Creating shortcuts to use funtions that are used repeatly easier
