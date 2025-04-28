@@ -39,3 +39,9 @@ I am a current music composition major with a programming minor with a love for 
 ### Wordel Type Game
 
 ### Potion Game
+
+![Items](https://github.com/user-attachments/assets/756496b9-1cba-40b5-ba6b-5eb6ab17bf3f)
+
+**Skills Used**
+* Use of overloading methods
+* Use of creating a information guide for items
