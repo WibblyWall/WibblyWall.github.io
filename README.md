@@ -64,3 +64,10 @@ I am a current music composition major with a programming minor with a love for 
 **Skills Used**
 * Use of storing data in a different class then the main
 * Use of get & set
+
+### Music Streaming Website
+
+![Game](https://github.com/user-attachments/assets/c7588fdd-abdf-4c47-b666-efc47dcb3307)
+
+**Skills Used**
+* Use of HTML, CSS, and Javascript
