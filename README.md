@@ -67,7 +67,7 @@ I am a current music composition major with a programming minor with a love for 
 
 ### Music Streaming Website
 
-![Game](https://github.com/user-attachments/assets/c7588fdd-abdf-4c47-b666-efc47dcb3307)
+![Game](<img width="1512" height="905" alt="Screenshot 2025-12-07 at 7 22 23 PM" src="https://github.com/user-attachments/assets/0651cd0e-17d6-4110-999f-955d59b949df" />)
 
 **Skills Used**
 * Use of HTML, CSS, and Javascript
