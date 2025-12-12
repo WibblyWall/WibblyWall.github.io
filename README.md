@@ -71,3 +71,10 @@ I am a current music composition major with a programming minor with a love for 
 
 **Skills Used**
 * Use of HTML, CSS, and Javascript
+* Used to create a website and style it
+
+![Game](https://github.com/user-attachments/assets/555bd45d-a6bd-4656-872b-73b42de536fd)
+
+**Skills Used**
+* Created a calculator that will estimate how much artist makes on different streaming serves
+  
